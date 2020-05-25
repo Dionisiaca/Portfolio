@@ -14,6 +14,7 @@ const Nav = () => {
     background-color: transparent;
     color: white;
     padding: 0rem 1rem 0rem 1rem;
+    z-index: 1;
   `;
   const Menu = styled.ul`
     width: 30%;

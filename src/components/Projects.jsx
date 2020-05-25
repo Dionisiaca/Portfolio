@@ -12,7 +12,7 @@ const Projects = () => {
     justify-content: center;
     align-items: flex-start;
     flex-flow: column;
-    background-color: #0004fd;
+    background-color: black;
     color: white;
   `;
   const Tag = styled.h3`

@@ -79,7 +79,7 @@ const About = () => {
           cyberfeminsm and technopolitics.
         </Text>
         <Link
-          href='https://drive.google.com/open?id=16_5CJkhlhZeQKjbNrd-wzcsLh4vxF0ym'
+          href='https://drive.google.com/file/d/1DIpoeAdeFxjIvjilIDMQJup0q0RUNzOA/view?usp=sharing'
           target='_blank'
         >
           Check my resume

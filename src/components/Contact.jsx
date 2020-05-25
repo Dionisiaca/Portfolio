@@ -9,7 +9,7 @@ const Contact = () => {
     flex-flow: column;
     justify-content: center;
     align-items: center;
-    background-color: #0004fd;
+    background-color: black;
     color: white;
   `;
 
